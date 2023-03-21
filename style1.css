@@ -1,5 +1,20 @@
 
-body {
-    background-color: #090a11;
-    color:blue;
+.cabecario {
+    background-color: crimson;
+    display: flex;
+    justify-content: space-around;
 }
+.cabecalho-imagem{
+    width:20%;
+}
+
+.cabecalho-lista-item{
+     display: inline-block;
+     margin: 0 16x;
+}
+
+* {
+     margin:
+    
+     padding: 24px 0;
+}       
